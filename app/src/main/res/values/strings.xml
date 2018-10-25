@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PersonalProfile</string>
+    <string name="txtHeader">Zach Fox</string>
+    <string name="txtCaption">Zach Fox stick figure</string>
+    <string name="btnView">View Profile</string>
+    <string name="txtBio">Zach Fox works at the McHenry Jewel-Osco where he has been working over
+        30 hours every week. This has led to him struggling to do his homework and have personal
+        time for himself and his friends. Now, Zach wonders if he will ever get
+        it together. </string>
+</resources>
